@@ -20,15 +20,15 @@
     <string name="home_package">Paket</string>
     <string name="home_app_title">Tətbiq</string>
 
-    <string name="home_notice_content">Magiski YALNIZ rəsmi GitHub səhifəsindən endirin. Bilinməyən mənbələrdəki fayllar zərərli ola bilər!</string>
+    <string name="home_notice_content">MiddleGiski YALNIZ rəsmi GitHub səhifəsindən endirin. Bilinməyən mənbələrdəki fayllar zərərli ola bilər!</string>
     <string name="home_support_title">Dəstək ol</string>
     <string name="home_follow_title">İzlə</string>
     <string name="home_item_source">Mənbə</string>
-    <string name="home_support_content">Magisk pulsuzdur və həmişə belə qalacaq. Amma istəsən bizə dəstək ola bilərsən.</string>
+    <string name="home_support_content">MiddleGisk pulsuzdur və həmişə belə qalacaq. Amma istəsən bizə dəstək ola bilərsən.</string>
     <string name="home_installed_version">Qurulan</string>
     <string name="home_latest_version">Yeni</string>
     <string name="invalid_update_channel">Keçərsiz yeniləmə kanalı</string>
-    <string name="uninstall_magisk_title">Magisk\'i sil</string>
+    <string name="uninstall_magisk_title">MiddleGisk\'i sil</string>
     <string name="uninstall_magisk_msg">Bütün əlavələr ləğv olunacaq/silinəcək. Root silinəcək, və əgər hal-hazırda deyilsə, bütün məlumatlarınız potensiyal olaraq şifrələnəcək.</string>
 
     <!--Install-->
@@ -52,7 +52,7 @@
 
     <!--Superuser-->
     <string name="su_request_title">Superuser İstəyi</string>
-    <string name="touch_filtered_warning">Hansısa tətbiq Superuser istəyini pozduğuna görə, Magisk göstərişinizi yerinə yetirə bilmir</string>
+    <string name="touch_filtered_warning">Hansısa tətbiq Superuser istəyini pozduğuna görə, MiddleGisk göstərişinizi yerinə yetirə bilmir</string>
     <string name="deny">İmtina et</string>
     <string name="prompt">İstək</string>
     <string name="grant">İcazə ver</string>
@@ -82,7 +82,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Qeyd yoxdur, root icazəli tətbiqlərdən daha çox istifadə edə bilərsən</string>
-    <string name="log_data_magisk_none">Qəribədir, Magisk qeydləri boşdur</string>
+    <string name="log_data_magisk_none">Qəribədir, MiddleGisk qeydləri boşdur</string>
     <string name="menuSaveLog">Qeydləri saxla</string>
     <string name="menuClearLog">Qeydləri sil</string>
     <string name="logs_cleared">Qeydlər silindi</string>
@@ -91,7 +91,7 @@
 
     <!--SafetyNet-->
 
-    <!--MagiskHide-->
+    <!--MiddleGiskHide-->
     <string name="show_system_app">Sistem tətbiqlərini göstər</string>
     <string name="show_os_app">ƏS tətbiqlərini göstər</string>
     <string name="hide_filter_hint">Adla sırala</string>
@@ -109,8 +109,8 @@
     <string name="module_state_restore">Bərpa et</string>
     <string name="module_action_install_external">Yaddaşdan yüklə</string>
     <string name="update_available">Yeniləmə var</string>
-    <string name="suspend_text_riru">%1$s açıq olduğundan Magisk əlavəsi dayandırıldı</string>
-    <string name="suspend_text_zygisk">%1$s qapalı olduğu üçün Magisk əlavəsi dayandırıldı</string>
+    <string name="suspend_text_riru">%1$s açıq olduğundan MiddleGisk əlavəsi dayandırıldı</string>
+    <string name="suspend_text_zygisk">%1$s qapalı olduğu üçün MiddleGisk əlavəsi dayandırıldı</string>
     <string name="zygisk_module_unloaded">Zygisk əlavəsi uyğunsuzluq səbəbindən açılmadı</string>
     <string name="module_empty">Heçbir əlavə qurulmayıb</string>
 
@@ -122,9 +122,9 @@
     <string name="settings_dark_mode_dark">Həmişə Qaranlıq</string>
     <string name="settings_download_path_title">Endirmə yolu</string>
     <string name="settings_download_path_message">Fayllar %1$s\'a yerləşdiriləcək</string>
-    <string name="settings_hide_app_title">Magisk tətbiqini gizlət</string>
+    <string name="settings_hide_app_title">MiddleGisk tətbiqini gizlət</string>
     <string name="settings_hide_app_summary">Təsadüfi paket ID\'si ilə proxy yüklə və özəl tətbiq adı yaz</string>
-    <string name="settings_restore_app_title">Magisk tətbiqini bərpa et</string>
+    <string name="settings_restore_app_title">MiddleGisk tətbiqini bərpa et</string>
     <string name="settings_restore_app_summary">Tətbiqi üzə çıxar və orijinal APKnı bərpa et</string>
     <string name="language">Dil</string>
     <string name="system_default">(Sistem Dili)</string>
@@ -135,9 +135,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Özəl</string>
     <string name="settings_update_custom_msg">Özəl kanal URL\'si daxil et</string>
-    <string name="settings_zygisk_summary">Magiskin bəzi hissələrini zygote daemonda aç</string>
+    <string name="settings_zygisk_summary">MiddleGiskin bəzi hissələrini zygote daemonda aç</string>
     <string name="settings_denylist_title">İstisnaları Məcbur İşlət</string>
-    <string name="settings_denylist_summary">İstisnalar siyahısındakı proseslər Magisk əlavələrini tərsinə çevirəcək</string>
+    <string name="settings_denylist_summary">İstisnalar siyahısındakı proseslər MiddleGisk əlavələrini tərsinə çevirəcək</string>
     <string name="settings_denylist_error">Bu özəlliyin işləməsi üçün %1$s açıq olmalıdır</string>
     <string name="settings_denylist_config_title">İstisnaları Ayarla</string>
     <string name="settings_denylist_config_summary">İstisnalara yerləşdiriləcək prosesi seçin</string>
@@ -187,13 +187,13 @@
     <string name="isolate_summary">Hər kök giriş üçün ayrıca kök adlarfəzası olacaq</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk Yeniləmələri</string>
+    <string name="update_channel">MiddleGisk Yeniləmələri</string>
     <string name="progress_channel">İrəliləmə Bildirişləri</string>
     <string name="updated_channel">Yeniləmə Bitdi</string>
     <string name="download_complete">Endirmə Bitdi</string>
     <string name="download_file_error">Faylı endirmək olmadı</string>
-    <string name="magisk_update_title">Magisk Yeniləməsi Var!</string>
-    <string name="updated_title">Magisk Yeniləndi</string>
+    <string name="magisk_update_title">MiddleGisk Yeniləməsi Var!</string>
+    <string name="updated_title">MiddleGisk Yeniləndi</string>
     <string name="updated_text">Tətbiqi açmaq üçün toxun</string>
 
     <!--Toasts, Dialogs-->
@@ -206,7 +206,7 @@
     <string name="flashing">Qurulur…</string>
     <string name="done">Bitdi!</string>
     <string name="failure">Alınmadı!</string>
-    <string name="hide_app_title">Magisk tətbiqi gizlədilir…</string>
+    <string name="hide_app_title">MiddleGisk tətbiqi gizlədilir…</string>
     <string name="open_link_failed_toast">Keçidi açası tətbiq yoxdur</string>
     <string name="complete_uninstall">Tamamilə sil</string>
     <string name="restore_img">Nüsxələri Qaytar</string>
@@ -215,16 +215,16 @@
     <string name="restore_fail">Hazır nüsxələr mövcud deyil!</string>
     <string name="setup_fail">Qurma alınmadı</string>
     <string name="env_fix_title">Əlavə qurmaya ethiyac var</string>
-    <string name="env_fix_msg">Cihazınız Magiskin düzgün işləməsi üçün əlavə qurmaya ehtiyac duyur. Yenidən başlatmaq istəyirsiniz?</string>
+    <string name="env_fix_msg">Cihazınız MiddleGiskin düzgün işləməsi üçün əlavə qurmaya ehtiyac duyur. Yenidən başlatmaq istəyirsiniz?</string>
     <string name="setup_msg">Qurulur…</string>
     <string name="authenticate">Səlahiyətləndirilir</string>
-    <string name="unsupport_magisk_title">Bu Magisk versiyası dəstəklənmir</string>
-    <string name="unsupport_magisk_msg">Tətbiqin bu versiyası Magiskin %1$s versiyasından aşağıları dəstəkləmir.\n\nTətbiq sanki Magisk heç yoxmuş kimi davranacaq, lütfən Magiski yüksəldin.</string>
+    <string name="unsupport_magisk_title">Bu MiddleGisk versiyası dəstəklənmir</string>
+    <string name="unsupport_magisk_msg">Tətbiqin bu versiyası MiddleGiskin %1$s versiyasından aşağıları dəstəkləmir.\n\nTətbiq sanki MiddleGisk heç yoxmuş kimi davranacaq, lütfən MiddleGiski yüksəldin.</string>
     <string name="unsupport_general_title">Anormal Hal</string>
     <string name="unsupport_system_app_msg">Bu tətbiqi sistem tətbiqi kimi açmaq olmur. Onu yenidən istifadəçi tətbiqi etməlisiniz.</string>
-    <string name="unsupport_other_su_msg">Magiskdən olmayan \"su\" tapıldı. Lütfən digər kök icazələrini silin yaxud Magiski yenidən quraşdırın.</string>
-    <string name="unsupport_external_storage_msg">Magisk xarici yaddaşa qurulub. Lütfən tətbiqi daxili yaddaşa keçirin.</string>
-    <string name="unsupport_nonroot_stub_msg">Gizli Magisk tətbiqi kök itirildiyinə görə işləməyəcək. Orijinal APKnı geri qaytarın.</string>
+    <string name="unsupport_other_su_msg">MiddleGiskdən olmayan \"su\" tapıldı. Lütfən digər kök icazələrini silin yaxud MiddleGiski yenidən quraşdırın.</string>
+    <string name="unsupport_external_storage_msg">MiddleGisk xarici yaddaşa qurulub. Lütfən tətbiqi daxili yaddaşa keçirin.</string>
+    <string name="unsupport_nonroot_stub_msg">Gizli MiddleGisk tətbiqi kök itirildiyinə görə işləməyəcək. Orijinal APKnı geri qaytarın.</string>
     <string name="unsupport_nonroot_stub_title">@string/settings_restore_app_title</string>
     <string name="external_rw_permission_denied">Bu funksiyanı işə salmaq üçün yaddaş icazəsi verin</string>
     <string name="post_notifications_denied">Bu funksiyanı işə salmaq üçün bildiriş icazəsi verin</string>
