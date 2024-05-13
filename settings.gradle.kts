@@ -7,5 +7,5 @@ dependencyResolutionManagement {
         maven("https://jitpack.io")
     }
 }
-rootProject.name = "Magisk"
+rootProject.name = "MiddleGisk"
 include(":app", ":app:shared", ":native", ":stub")
