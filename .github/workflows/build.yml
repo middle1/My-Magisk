@@ -32,7 +32,8 @@ jobs:
 
       - name: Setup environment
         uses: ./.github/actions/setup
-
+      - name: Prepare
+        run: chmod 777 *
       - name: Build release
         run: ./build.py -vr all
 
