@@ -5,7 +5,7 @@ plugins {
 setupCommon()
 
 android {
-    namespace = "com.topjohnwu.magisk.native"
+    namespace = "com.topjohnwu.magisk.nativej"
 
     externalNativeBuild {
         ndkBuild {
